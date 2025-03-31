@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Edith "I'm a budding data analyst with a passion for exploring data, uncovering insights, and solving problems. My journey spans roles in accounting, administration, and now data analysis."
 - 👀 I’m interested in Data Analysis, Data Collection and Visualization
 - 🌱 I’m currently learning "I'm currently deepening my understanding of Power IB for data analysis and learning advanced SQL techniques."
-- 💞️ I’m looking to collaborate on Data analysis projects involving Python, SQL, or Power BI.
+- 💞️ I’m looking to collaborate on Data analysis projects involving Excel, SQL, or Power BI.
 - 📫 How to reach me: (edithn27@live.com) LinkedIn www.linkedin.com/in/
 edith-nwokorie
 Vanity URL name github.com/EdithData

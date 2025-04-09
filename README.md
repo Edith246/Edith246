@@ -1,15 +1,23 @@
-- 👋 Hi, I’m Edith "I'm a budding data analyst with a passion for exploring data, uncovering insights, and solving problems. My journey spans roles in accounting, administration, and now data analysis."
-- 👀 I’m interested in Data Analysis, Data Collection and Visualization
-- 🌱 I’m currently learning "I'm currently deepening my understanding of Power IB for data analysis and learning advanced SQL techniques."
-- 💞️ I’m looking to collaborate on Data analysis projects involving Excel, SQL, or Power BI.
-- 📫 How to reach me: (edithn27@live.com) LinkedIn www.linkedin.com/in/
-edith-nwokorie
-Vanity URL name github.com/EdithData
+- Hi there 👋 I'm a passionate Data Analyst focused on transforming raw data into meaningful insights."
+- 📊 Junior Data Analyst | Excel | Power BI Enthusiast | SQL Explorer
+- 💻 Currently working on Data Analytics Projects — Vehicle Theft Analysis, Healthcare Data, Retail Sales, and more
+- 🎓 Google Data Analytics Certificate Student.
+- Tools & Skills: Power BI | Excel | SQL | Data Visualization | Dashboard Design | Data Storytelling
+- 📫 How to reach me: (https://www.linkedin.com/in/edith-nwokorie/) (edithn27@live.com) 
+Vanity URL name github.com/Edith246
 
 - 😄 Pronouns: she
-- ⚡ Fun fact: I enjoy finding patterns in data almost as much as I enjoy finding new recipes to try out in the kitchen!"
+- 💡 I love using data to tell stories, solve problems, and drive better decisions.
 
 <!---
 Edith246/Edith246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+What I'm Working On:
+Building real-world portfolio projects.
+
+Improving my Data Analytics & Visualization skills.
+
+Sharing my projects on LinkedIn & GitHub for learning and growth.
+
+Let's connect and learn together! 🚀
